@@ -3,7 +3,7 @@
 var express = require('express');
 var router = express.Router();
 
-var Reservation = require('../models/Reservation');
+var Reservation = require('../models/reservation');
 
 
 router.get('/', function(req, res) {
