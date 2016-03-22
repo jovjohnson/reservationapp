@@ -11,7 +11,6 @@ var Reservation = mongoose.model('Reservation', {
 module.exports = Reservation;
 
 
-
 // var Reservation = mongoose.model('Reservation', {
 // 	time: Date,
 // 	name: String,
