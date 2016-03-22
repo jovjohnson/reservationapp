@@ -1,0 +1,19 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+h1 {
+	font-family: 'Pacifico', cursive;
+	font-size: 60px;
+}
+
+#add {
+	background-color: orange;
+	border-radius: 3px;
+	height: 115px;
+}
